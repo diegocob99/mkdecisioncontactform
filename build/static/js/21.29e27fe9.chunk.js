@@ -1,0 +1,2 @@
+(this["webpackJsonpmk-contact-form"]=this["webpackJsonpmk-contact-form"]||[]).push([[21],{370:function(t,n,e){"use strict";e.r(n),e.d(n,"amplify_container",(function(){return i}));var c=e(16),i=function(){function t(t){Object(c.k)(this,t)}return t.prototype.render=function(){return Object(c.i)(c.b,null,Object(c.i)("slot",null))},t}();i.style="amplify-container{display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center;height:100vh}"}}]);
+//# sourceMappingURL=21.29e27fe9.chunk.js.map
