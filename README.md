@@ -6,7 +6,7 @@ The Contact Us form app welcomes you with a login screen.
 * Create an Account, with an email and a password. You will be emailed a code. 
 * Enter the code to finish creating an account and then sign in. 
 
-###The Form has input fields for:
+### The Form has input fields for:
 * First Name
 * Last Name
 * Company Name
